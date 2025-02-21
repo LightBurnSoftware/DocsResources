@@ -59,5 +59,6 @@
 	"Optimization":	"https://docs.lightburnsoftware.com/2.0/Reference/OptimizationSettings/",
 	"CutSettings":	"https://docs.lightburnsoftware.com/2.0/Reference/CutSettingsEditor/",
 	"CutSettingsGalvo":	"https://docs.lightburnsoftware.com/2.0/Reference/CutSettingsEditor/GalvoSpecificCutSettings/",
-	"ConfigureGalvoSettings":	"https://docs.lightburnsoftware.com/2.0/Reference/DeviceSettings/GalvoBasicSettings/"
+	"ConfigureGalvoSettings":	"https://docs.lightburnsoftware.com/2.0/Reference/DeviceSettings/GalvoBasicSettings/",
+	"MachineSizeMismatch": "https://docs.lightburnsoftware.com/2.0/Troubleshooting/MachineSizeMismatch/"
 }
