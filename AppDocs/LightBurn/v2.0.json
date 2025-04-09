@@ -1,9 +1,9 @@
 {
-	"Store_GCode":	"https://lightburnsoftware.com/products/lightburn-core",
-	"Store_DSP":	"https://lightburnsoftware.com/products/lightburn-pro",
-	"Store_Galvo":	"https://lightburnsoftware.com/products/lightburn-pro",
-	"Store_DSP_Galvo":	"https://lightburnsoftware.com/products/lightburn-pro",
-	"Store_Darkly":	"https://darklylabs.com/product-category/software/",
+	"LBStore_GCode":	"https://lightburnsoftware.com/products/lightburn-core",
+	"LBStore_DSP":	"https://lightburnsoftware.com/products/lightburn-pro",
+	"LBStore_Galvo":	"https://lightburnsoftware.com/products/lightburn-pro",
+	"LBStore_DSP_Galvo":	"https://lightburnsoftware.com/products/lightburn-pro",
+	"LBStore_Darkly":	"https://darklylabs.com/product-category/software/",
 	"MMStore_Core":	"https://lightburnsoftware.com/millmage",
 	
 	"Vendor_Boss":	"https://bosslaser.com/resources-support/",
