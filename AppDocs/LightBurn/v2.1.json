@@ -12,9 +12,9 @@
 	
 	"OfflineDocs":	"https://lightburnsoftware.github.io/DocsResources/PDF/LB/LightBurn2.0.pdf",
 	"Tutorials":	"https://lightburnsoftware.com/pages/tutorials",
+	"Forum":	"https://forum.lightburnsoftware.com",
 	
 	"Home":	"https://docs.lightburnsoftware.com/",
-	"Forum":	"https://forum.lightburnsoftware.com",
 	"AddDevice":	"https://docs.lightburnsoftware.com/2.0/GetStarted/FindMyLaser/",
 	"CoordinatesOrigin":	"https://docs.lightburnsoftware.com/2.0/GetStarted/CoordinatesOriginBeginner/",
 	"ConnLost":	"https://docs.lightburnsoftware.com/2.0/Troubleshooting/ConnectionTroubleshooting/#laser-doesnt-stay-connected-to-computer",
@@ -39,7 +39,6 @@
 	"ModifierBooleanSubtract":	"https://docs.lightburnsoftware.com/2.0/Reference/BooleanTools/#boolean-subtract",
 	"ModifierBooleanIntersection":	"https://docs.lightburnsoftware.com/2.0/Reference/BooleanTools/#boolean-intersection",
 	"ModifierBooleanAssist":	"https://docs.lightburnsoftware.com/2.0/Reference/BooleanTools/#boolean-assistant",
-	"CornerRadius": "https://docs.lightburnsoftware.com/2.0/Reference/RadiusFillet/",
 	"GridArray":	"https://docs.lightburnsoftware.com/2.0/Reference/GridArray/",
 	"CircularArray":	"https://docs.lightburnsoftware.com/2.0/Reference/CircularArray/",
 	"StartPoints":	"https://docs.lightburnsoftware.com/2.0/Reference/SetStartPoint/",
@@ -55,13 +54,10 @@
 	"FileListWindow":	"https://docs.lightburnsoftware.com/2.0/Reference/FileListWindow/",
 	"VariableText":	"https://docs.lightburnsoftware.com/2.0/Reference/VariableText/",
 	"ColorPalette":	"https://docs.lightburnsoftware.com/2.0/Reference/UI/ColorPalette/",
-	"GroupUngroup":	"https://docs.lightburnsoftware.com/2.0/Reference/Grouping/",
 	"NumericEdits":	"https://docs.lightburnsoftware.com/2.0/Reference/NumericEditsToolbar/",
 	"Preview":	"https://docs.lightburnsoftware.com/2.0/Reference/Preview/",
 	"DeviceSettings":	"https://docs.lightburnsoftware.com/2.0/Reference/DeviceSettings/",
-	"ArrangementToolbar":	"https://docs.lightburnsoftware.com/2.0/Reference/UI/ArrangeToolbar/",
 	"DockObjects": "https://docs.lightburnsoftware.com/2.0/Reference/Dock/",
-	"AlignObjects": "https://docs.lightburnsoftware.com/2.0/Reference/Align/",
 	"PrintCut": "https://docs.lightburnsoftware.com/2.0/Reference/PrintAndCut/",
 	"RotarySetup": "https://docs.lightburnsoftware.com/2.0/Reference/RotaryMode/",
 	"Trace":	"https://docs.lightburnsoftware.com/2.0/Reference/TraceImage/",
@@ -70,5 +66,18 @@
 	"CutSettings":	"https://docs.lightburnsoftware.com/2.0/Reference/CutSettingsEditor/",
 	"CutSettingsGalvo":	"https://docs.lightburnsoftware.com/2.0/Reference/CutSettingsEditor/GalvoSpecificCutSettings/",
 	"ConfigureGalvoSettings":	"https://docs.lightburnsoftware.com/2.0/Reference/DeviceSettings/GalvoBasicSettings/",
-	"MachineSizeMismatch": "https://docs.lightburnsoftware.com/2.0/Troubleshooting/MachineSizeMismatch/"
+	"MachineSizeMismatch": "https://docs.lightburnsoftware.com/2.0/Troubleshooting/MachineSizeMismatch/",
+	
+	"ArrangementToolbar":	"https://docs.lightburnsoftware.com/2.0/Reference/UI/ArrangeToolbar/",
+	"GroupUngroup": "https://docs.lightburnsoftware.com/2.0/Reference/Grouping/",
+	"FlipMirror": "https://docs.lightburnsoftware.com/2.0/Reference/FlipMirror/",
+	"AlignObjects": "https://docs.lightburnsoftware.com/2.0/Reference/Align/",
+	"MakeSameSize": "https://docs.lightburnsoftware.com/2.0/Reference/MakeSameWidthHeight/",
+	"Distribute": "https://docs.lightburnsoftware.com/2.0/Reference/Distribute/",
+	"MoveSelectedObjects": "https://docs.lightburnsoftware.com/2.0/Reference/MoveSelectedObjects/",
+	"MoveLaserToSelection": "https://docs.lightburnsoftware.com/2.0/Reference/MoveLaserToSelection/",
+
+	"MacrosWindow": "https://docs.lightburnsoftware.com/2.0/Reference/MacrosWindow/",
+	"ArtLibary": "https://docs.lightburnsoftware.com/2.0/Reference/ArtLibrary/",
+	"StatusBar": "https://docs.lightburnsoftware.com/2.0/Reference/UI/StatusBar/"
 }
