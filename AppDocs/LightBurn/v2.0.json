@@ -79,5 +79,14 @@
 
 	"MacrosWindow": "https://docs.lightburnsoftware.com/2.0/Reference/MacrosWindow/",
 	"ArtLibary": "https://docs.lightburnsoftware.com/2.0/Reference/ArtLibrary/",
-	"StatusBar": "https://docs.lightburnsoftware.com/2.0/Reference/UI/StatusBar/"
+	"StatusBar": "https://docs.lightburnsoftware.com/2.0/Reference/UI/StatusBar/",
+	"FileManagement": "https://docs.lightburnsoftware.com/2.0/Reference/FileManagement/",
+	"UndoRedo": "https://docs.lightburnsoftware.com/2.0/Reference/UndoRedo/",
+	"Clipboard": "https://docs.lightburnsoftware.com/2.0/Reference/Clipboard/",
+	"Pan": "https://docs.lightburnsoftware.com/2.0/Reference/ZoomPan/#panning",
+	"ZoomPage": "https://docs.lightburnsoftware.com/2.0/Reference/ZoomPan/#zoom-to-page",
+	"ZoomInOut": "https://docs.lightburnsoftware.com/2.0/Reference/ZoomPan/#zoom-in-and-out",
+	"ZoomFrame": "https://docs.lightburnsoftware.com/2.0/Reference/ZoomPan/#frame-selection",
+	"UpdateCameraOverlay": "https://docs.lightburnsoftware.com/2.0/Reference/CameraControlWindow/#update-overlay",
+	"SettingsPreferences": "https://docs.lightburnsoftware.com/2.0/Reference/SettingsPreferences/"
 }
