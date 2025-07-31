@@ -37,7 +37,7 @@
 	"ModifierBooleanSubtract": "https://docs.millmagesoftware.com/0.8/Reference/BooleanTools/#boolean-subtract-boolean-difference",
 	"ModifierBooleanIntersection": "https://docs.millmagesoftware.com/0.8/Reference/BooleanTools/#boolean-intersection",
 	"ModifierBooleanAssist": "https://docs.millmagesoftware.com/0.8/Reference/BooleanTools/#boolean-assistant",
-	"CornerRadius": "https://docs.millmagesoftware.com/0.8/Reference/RadiusFillet/",
+	"RoundCorners": "https://docs.millmagesoftware.com/0.8/Reference/RadiusFillet/",
 	"GridArray": "https://docs.millmagesoftware.com/0.8/Reference/GridArray/",
 	"CircularArray": "https://docs.millmagesoftware.com/0.8/Reference/CircularArray/",
 	"StartPoints": "https://docs.millmagesoftware.com/0.8/Reference/SetStartPoint/",
