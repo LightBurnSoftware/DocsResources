@@ -76,5 +76,14 @@
 	"ArtLibary": "https://docs.millmagesoftware.com/0.8/Reference/ArtLibrary/",
 	"StatusBar": "https://docs.millmagesoftware.com/0.8/Reference/UI/StatusBar/",
 	"OperationsLibrary": "https://docs.millmagesoftware.com/0.8/Reference/OperationsLibrary/",
-	"LayersWindow": "https://docs.millmagesoftware.com/0.8/Reference/LayersWindow/"
+	"LayersWindow": "https://docs.millmagesoftware.com/0.8/Reference/LayersWindow/",
+	"FileManagement": "https://docs.millmagesoftware.com/0.8/Reference/FileManagement/",
+	"UndoRedo": "https://docs.millmagesoftware.com/0.8/Reference/UndoRedo/",
+	"Clipboard": "https://docs.millmagesoftware.com/0.8/Reference/Clipboard/",
+	"Pan": "https://docs.millmagesoftware.com/0.8/Reference/ZoomPan/#panning",
+	"ZoomPage": "https://docs.millmagesoftware.com/0.8/Reference/ZoomPan/#zoom-to-page",
+	"ZoomInOut": "https://docs.millmagesoftware.com/0.8/Reference/ZoomPan/#zoom-in-and-out",
+	"ZoomFrame": "https://docs.millmagesoftware.com/0.8/Reference/ZoomPan/#frame-selection",
+	"UpdateCameraOverlay": "https://docs.millmagesoftware.com/0.8/Reference/CameraControlWindow/#update-overlay",
+	"SettingsPreferences": "https://docs.millmagesoftware.com/0.8/Reference/SettingsPreferences/"
 }
