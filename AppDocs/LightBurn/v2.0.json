@@ -88,5 +88,7 @@
 	"ZoomInOut": "https://docs.lightburnsoftware.com/2.0/Reference/ZoomPan/#zoom-in-and-out",
 	"ZoomFrame": "https://docs.lightburnsoftware.com/2.0/Reference/ZoomPan/#frame-selection",
 	"UpdateCameraOverlay": "https://docs.lightburnsoftware.com/2.0/Reference/CameraControlWindow/#update-overlay",
-	"SettingsPreferences": "https://docs.lightburnsoftware.com/2.0/Reference/SettingsPreferences/"
+	"SettingsPreferences": "https://docs.lightburnsoftware.com/2.0/Reference/SettingsPreferences/",
+
+	"WarningG54Offset": "https://docs.lightburnsoftware.com/2.0/"
 }
