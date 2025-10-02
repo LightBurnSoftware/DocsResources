@@ -85,5 +85,7 @@
 	"ZoomInOut": "https://docs.millmagesoftware.com/0.8/Reference/ZoomPan/#zoom-in-and-out",
 	"ZoomFrame": "https://docs.millmagesoftware.com/0.8/Reference/ZoomPan/#frame-selection",
 	"UpdateCameraOverlay": "https://docs.millmagesoftware.com/0.8/Reference/CameraControlWindow/#update-overlay",
-	"SettingsPreferences": "https://docs.millmagesoftware.com/0.8/Reference/SettingsPreferences/"
+	"SettingsPreferences": "https://docs.millmagesoftware.com/0.8/Reference/SettingsPreferences/",
+	"DownloadArtLibraries": "https://docs.millmagesoftware.com/0.8/Resources/",
 }
+
