@@ -1,10 +1,6 @@
 {
-	"Store_GCode": 		"https://millmagesoftware.com",
-	"Store_DSP": 		"https://millmagesoftware.com",
-	"Store_Galvo": 		"https://millmagesoftware.com",
-	"Store_DSP_Galvo": 	"https://millmagesoftware.com",
-	"Store_Darkly": 	"https://darklylabs.com/product-category/software/",
 	"MMStore_Core": 	"https://millmagesoftware.com",
+	"MMStore_Pro": 	    "https://millmagesoftware.com",
 	
 	"Vendor_Boss": 		"https://www.bosslaser.com/contact-us",
 	"Vendor_Lotus": 	"https://www.lotuslaser.com/technical-support",
@@ -88,5 +84,6 @@
 	"SettingsPreferences": "https://docs.millmagesoftware.com/0.8/Reference/SettingsPreferences/",
 	"DownloadArtLibraries": "https://docs.millmagesoftware.com/0.8/Resources/"
 }
+
 
 
