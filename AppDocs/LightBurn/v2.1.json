@@ -93,6 +93,6 @@
 	"WarningG54Offset": "https://docs.lightburnsoftware.com/2.1/Reference/DeviceSettings/DimensionsUnits/#machine-coordinates",
 	"FeatureRequest": "https://lightburn.fider.io/",
 
-	"CameraCalibrationAprilTags": "https://docs.lightburnsoftware.com/2.1/img/CalibrationTags.pdf"
-
+	"CameraCalibrationAprilTags": "https://docs.lightburnsoftware.com/2.1/img/CalibrationTags.pdf",
+	"CameraImport17": "https://docs.lightburnsoftware.com/2.1/"
 }
