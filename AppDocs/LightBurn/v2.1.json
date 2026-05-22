@@ -94,5 +94,5 @@
 	"FeatureRequest": "https://lightburn.fider.io/",
 
 	"CameraCalibrationAprilTags": "https://docs.lightburnsoftware.com/2.1/img/CalibrationTags.pdf",
-	"CameraImport17": "https://docs.lightburnsoftware.com/2.1/"
+	"CameraImport17": "https://docs.lightburnsoftware.com/2.1/Reference/Cameras/AddACamera/#older-camera-settings-file"
 }
