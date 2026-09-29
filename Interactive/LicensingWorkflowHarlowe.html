@@ -9,13 +9,24 @@
 </head>
 <body>
 <tw-story><noscript><tw-noscript>JavaScript needs to be enabled to play Licensing Workflow.</tw-noscript></noscript></tw-story>
-<tw-storydata name="Licensing Workflow" startnode="18" creator="Twine" creator-version="2.12.0" format="Harlowe" format-version="3.3.9" ifid="3BCC5662-4815-4265-8CF6-0E869E5999A1" options="" tags="" zoom="1" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">/*
+<tw-storydata name="Licensing Workflow" startnode="18" creator="Twine" creator-version="2.12.0" format="Harlowe" format-version="3.3.9" ifid="3BCC5662-4815-4265-8CF6-0E869E5999A1" options="" tags="" zoom="1" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">
 tw-story {
-	background-color: white; 
+	background-color: #eee; 
   	color: black;
   	font-family: Barlow, Roboto, Arial, sans-serif;
 }
 
+tw-link {
+  color: #a11d2d;
+  transition: color 125ms, background-color 125ms, opacity 125ms;
+}
+
+tw-link:hover {
+ color: #a11d2d; 
+  opacity: .8;
+}
+
+/*
 tw-link {
  	background-color: #a11d2d;
   	color: white;
@@ -31,10 +42,6 @@ tw-link:hover {
 	background-color: #a11d2d;
   	color: white;
   	opacity:.8;
-}
-
-tw-consecutive-br {
- margin-top: .5rem;
 }
 */</style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-tag name="test" color="green"></tw-tag><tw-tag name="external" color="green"></tw-tag><tw-passagedata pid="1" name="Add seats (use more computers)" tags="" position="425,750" size="100,100">(open-url:&quot;https://lightburnsoftware.com/collections/add-a-seat&quot;)</tw-passagedata><tw-passagedata pid="2" name="Buy LightBurn via webstore instead" tags="" position="825,600" size="100,100">(open-url:&quot;https://lightburnsoftware.com/collections/lightburn&quot;)</tw-passagedata><tw-passagedata pid="3" name="Came with my Laser" tags="" position="1500,400" size="100,100">If your license was purchased through a manufacturer or reseller, our support team can help you associate it with your email address so you can manage your license yourself.
 
@@ -93,7 +100,6 @@ If you don&#39;t currently have LightBurn installed and activated, you can just 
 (button:)[[Email Support]]</tw-passagedata><tw-passagedata pid="18" name="Start" tags="" position="900,200" size="100,100">Do you know your license key or how to find it?
 
 (button:)[[Yes-&gt;Know License Key]]
-
 (button:)[[No-&gt;Don&#39;t Know License Key]]
 
 [[I don&#39;t know what that is]]</tw-passagedata><tw-passagedata pid="19" name="Trial ID:" tags="" position="800,400" size="100,100">You&#39;re using a free **trial version** of LightBurn.
