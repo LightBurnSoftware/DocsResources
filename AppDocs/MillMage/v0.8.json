@@ -83,7 +83,8 @@
 	"UpdateCameraOverlay": "https://docs.millmagesoftware.com/0.8/Reference/CameraControlWindow/#update-overlay",
 	"SettingsPreferences": "https://docs.millmagesoftware.com/0.8/Reference/SettingsPreferences/",
 	"DownloadArtLibraries": "https://docs.millmagesoftware.com/0.8/Resources/",
-	"FeatureRequest": "https://millmage.fider.io/"
+	"FeatureRequest": "https://millmage.fider.io/",
+	"HowLicenseWorks": "https://docs.millmagesoftware.com/0.8/LicenseFAQs/#how-the-license-works"
 }
 
 
